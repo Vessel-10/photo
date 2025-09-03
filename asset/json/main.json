@@ -1,0 +1,93 @@
+{
+  "services": [
+    {
+      "icon": "💍",
+      "title": "Wedding Photography",
+      "description": "Elegant and emotional coverage of your special day, from intimate moments to grand celebrations."
+    },
+    {
+      "icon": "👨‍👩‍👧",
+      "title": "Portraits & Family",
+      "description": "Professional portraits for individuals, couples, and families natural, authentic, and timeless."
+    },
+    {
+      "icon": "🎉",
+      "title": "Event Coverage",
+      "description": "Comprehensive coverage of corporate events, birthdays, and special occasions."
+    },
+    {
+      "icon": "🏢",
+      "title": "Brand & Product",
+      "description": "High-quality imagery to showcase your products, business, or professional profile."
+    }
+  ],
+  "pricing": [
+    {
+      "title": "Basic",
+      "price": "$199",
+      "unit": "/session",
+      "features": ["1-Hour Session", "15 Edited Photos", "Online Gallery", "Email Support"],
+      "button": "Book Now"
+    },
+    {
+      "title": "Standard",
+      "price": "$499",
+      "unit": "/session",
+      "features": ["3-Hour Session", "50 Edited Photos", "Online Gallery + USB", "Priority Editing", "2 Outfit Changes"],
+      "button": "Most Popular"
+    },
+    {
+      "title": "Premium",
+      "price": "$999",
+      "unit": "/day",
+      "features": ["Full-Day Coverage", "Unlimited Edited Photos", "Custom Photo Album", "Drone Photography", "24/7 Support"],
+      "button": "Book Now"
+    }
+  ],
+  "portfolio": [
+    {
+      "image": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1529626455594-4da7fbd16c2c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1522336572468-97b06e8ef143?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+  "testimonials": [
+    {
+      "initials": "AN",
+      "text": "LensCraft captured our wedding so beautifully! Every photo feels magical. Highly recommend!",
+      "name": "Anna & Noah",
+      "role": "Wedding Clients"
+    },
+    {
+      "initials": "JS",
+      "text": "Our family portraits turned out amazing. They made us feel so comfortable during the session.",
+      "name": "Jessica Smith",
+      "role": "Family Session"
+    },
+    {
+      "initials": "MK",
+      "text": "Professional, creative, and reliable. The photos elevated our brand’s image instantly.",
+      "name": "Michael Klein",
+      "role": "Business Owner"
+    }
+  ],
+  "footer": {
+    "description": "Capturing timeless memories through professional photography. Weddings, portraits, events, and more – your story beautifully told.",
+    "links": ["Home", "About", "Services", "Portfolio", "Pricing", "Contact"],
+    "services": ["Wedding Photography", "Portrait Sessions", "Event Coverage", "Brand & Product Shoots"],
+    "copyright": "© 2025 LensCraft Photography. All rights reserved."
+  }
+}
